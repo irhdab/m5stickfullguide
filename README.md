@@ -1,5 +1,5 @@
 # :page_facing_up:Beginner M5Stick Guide
-This is a Beginner Guide for the M5 Stick, held as simple as possible, for normal people to understand it! But you also should bring a bit of knowlege to understand it better. I also Hyperlinked all the Words, that are difficult to understand. All the important links will be down below.
+This is a Beginner Guide for the M5 Stick, held simple as possible, for normal people to understand it! But you also should bring a bit of knowlege to understand it better. I also Hyperlinked all the Words, that are difficult to understand. All the important links will be down below.
 
 
 ## 💻 M5Stick in General 
@@ -39,7 +39,7 @@ Bruce has more features than Nemo and overall is better in my opinion. Here is a
 
 - ### 🛜 Wifi Stuff                    (Wifi Attacks, Spams, ...)
 - ### 🔵 BLE / Bluetooth Low Energy    (Bluetooth Attacks, Spams, ...)
-- ### 📻 RF / Radio Frequenzy          (Scan/Copy Frequenzys, Jamming, ...)
+- ### 📻 RF / Radio Frequenzy          (Scan/Copy Frequency, Jamming, ...)
 - ### ⭕ IR / Infared                  (Turn TVs On or Off, ...)
 - ### 📉 FM / Frequency Modulation     (Brodcast Standard, Brodcast rerserved - Warning! Educational Purpose only!)
 - ### 📡 NRF24 / 2,4GHz Antenna        (For Better Jamming, need to be bought seperatly)
@@ -63,7 +63,7 @@ To see more features or more details of the Features check out the Github of Bru
 
 ## 🔧 Unofficial M5stack Attachments
 
-- [**CC1101**](https://de.aliexpress.com/item/1005004333776584.html?businessType=ProductDetail&srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=60906761349&aff_fcid=c972a1490b2b4101ae7fffbfd0fe7897-1734271394437-05997-_EzBvF1e&tt=CPS_NORMAL&aff_fsk=_EzBvF1e&aff_platform=shareComponent-detail&sk=_EzBvF1e&aff_trace_key=c972a1490b2b4101ae7fffbfd0fe7897-1734271394437-05997-_EzBvF1e&shareId=60906761349&businessType=ProductDetail&platform=AE&terminal_id=ec4331db37424feaa5a63d422bee1666&gatewayAdapt=glo2deu) (External Antenna for more range and more powerfull jamming **Warning! Educational Purpose Only! **)
+- [**CC1101**](https://de.aliexpress.com/item/1005004333776584.html?businessType=ProductDetail&srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=60906761349&aff_fcid=c972a1490b2b4101ae7fffbfd0fe7897-1734271394437-05997-_EzBvF1e&tt=CPS_NORMAL&aff_fsk=_EzBvF1e&aff_platform=shareComponent-detail&sk=_EzBvF1e&aff_trace_key=c972a1490b2b4101ae7fffbfd0fe7897-1734271394437-05997-_EzBvF1e&shareId=60906761349&businessType=ProductDetail&platform=AE&terminal_id=ec4331db37424feaa5a63d422bee1666&gatewayAdapt=glo2deu) (External Antenna for more range and more powerfull jamming **Warning! Educational Purpose Only!**)
 - [**NRF24L01**](https://de.aliexpress.com/item/1005006179466246.html?businessType=ProductDetail&srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=60906809295&aff_fcid=9b35110bf51a4f8e9a2b12b9ab9df5cf-1734271398149-04082-_EIjrOjA&tt=CPS_NORMAL&aff_fsk=_EIjrOjA&aff_platform=shareComponent-detail&sk=_EIjrOjA&aff_trace_key=9b35110bf51a4f8e9a2b12b9ab9df5cf-1734271398149-04082-_EIjrOjA&shareId=60906809295&businessType=ProductDetail&platform=AE&terminal_id=ec4331db37424feaa5a63d422bee1666&gatewayAdapt=glo2deu) (External Antenna for more range and more powerfull jamming **Warning! Educational Purpose Only! **)
 - [**CH9329**](https://de.aliexpress.com/item/1005007511100935.html?businessType=ProductDetail&srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=60901460840&aff_fcid=62e5a8673bb347aeb4160e058404ccda-1734271399162-04234-_EvYgKtS&tt=CPS_NORMAL&aff_fsk=_EvYgKtS&aff_platform=shareComponent-detail&sk=_EvYgKtS&aff_trace_key=62e5a8673bb347aeb4160e058404ccda-1734271399162-04234-_EvYgKtS&shareId=60901460840&businessType=ProductDetail&platform=AE&terminal_id=ec4331db37424feaa5a63d422bee1666&gatewayAdapt=glo2deu) (USB Port)
 - [**SD Reader**](https://de.aliexpress.com/item/1005006247350757.html?aff_fcid=7b0c51d1535043b1843dd3a4409325bb-1734271400283-06554-_DBKndJx&tt=CPS_NORMAL&aff_fsk=_DBKndJx&aff_platform=shareComponent-detail&sk=_DBKndJx&aff_trace_key=7b0c51d1535043b1843dd3a4409325bb-1734271400283-06554-_DBKndJx&terminal_id=ec4331db37424feaa5a63d422bee1666&afSmartRedirect=y) (SD Reader For more storage. Default one only has 8MB)
